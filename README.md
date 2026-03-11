@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Lucas Reis
 
-<!--
-**lucasReisDm/lucasReisDm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI solutions, automations and business systems.
 
-Here are some ideas to get you started:
+## About me
+I come from a background in financial services, consultative sales and client relationship management.  
+Today, I am focused on learning and building solutions involving AI, process automation and operational efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- AI solutions for business
+- Process automation
+- n8n workflows
+- Operational efficiency
+- Customer journey improvement
+
+## Repositories
+Here you will find my studies, templates, practical projects and portfolio as I build my skills in AI and automation.
+
+## Connect with me
+- LinkedIn: [Add your LinkedIn link here]

@@ -17,4 +17,4 @@ Today, I am focused on learning and building solutions involving AI, process aut
 Here you will find my studies, templates, practical projects and portfolio as I build my skills in AI and automation.
 
 ## Connect with me
-- LinkedIn: [Add your LinkedIn link here]
+- LinkedIn: www.linkedin.com/in/lucas-reis-cea-pqo-07441a188

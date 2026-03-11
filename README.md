@@ -14,7 +14,7 @@ Today, I am focused on learning and building solutions involving AI, process aut
 - Customer journey improvement
 
 ## Repositories
-Here you will find my studies, templates, practical projects and portfolio as I build my skills in AI and automation.
+Here you will find my study notes, templates, practical projects and portfolio as I build my skills in AI and automation.
 
 ## Connect with me
 - LinkedIn: www.linkedin.com/in/lucas-reis-cea-pqo-07441a188
